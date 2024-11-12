@@ -1,4 +1,9 @@
-# Donders_internship
+# OS tracking:
+Credits:
+
+Sanne Van Staveren
+
+Adrián Alemán
 
 ## Small introduction 
 To analyse this object space task a video of the rat exploring the objects in an arena and the neuronal activity of the rat’s cortex are recorded simultaneously. With this information the location and amount of time spent there can be calculated using a tracker and can be further analysed by looking into the spiking activity of neurons at these locations. However, these videos can be long and large, and the neuronal data is not aligned with the video. 
